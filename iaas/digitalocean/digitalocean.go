@@ -11,7 +11,7 @@ import (
 	"github.com/docker/machine/drivers/digitalocean"
 	"github.com/docker/machine/libmachine"
 	"github.com/docker/machine/libmachine/host"
-	"github.com/gofn/gofn/iaas"
+	"github.com/nuveo/gofn/iaas"
 	uuid "github.com/satori/go.uuid"
 )
 
