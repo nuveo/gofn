@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gofn/gofn/provision"
+	"github.com/nuveo/gofn/provision"
 )
 
 func TestRun(t *testing.T) {

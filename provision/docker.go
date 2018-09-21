@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	docker "github.com/fsouza/go-dockerclient"
-	"github.com/gofn/gofn/iaas"
+	"github.com/nuveo/gofn/iaas"
 	uuid "github.com/satori/go.uuid"
 )
 
